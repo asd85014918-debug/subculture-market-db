@@ -25,6 +25,12 @@
 
 ERD는 `docs/erd_diagram.jpg` (VSCode ERD Editor, Crow's Feet 표기법) 참고.
 
+## 이미지 출처
+
+`imgs/game/` 아래 게임 키비주얼은 AI 이미지 생성 도구로 직접 제작한 창작 이미지이며,
+`imgs/developer/` 아래 개발사 로고는 자체 제작한 placeholder 아이콘이다.
+실제 게임사의 공식 아이콘/로고가 아니며, 본 과제는 비상업적 학습 목적의 제출물이다.
+
 ## 실행 방법
 
 ```bash
